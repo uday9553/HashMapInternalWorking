@@ -1,4 +1,4 @@
-# HashSetInternalWorking
+# HashMapInternalWorking
 
 # Internal Working of HashMap
 
